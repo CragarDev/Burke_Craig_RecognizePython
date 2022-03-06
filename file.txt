@@ -33,21 +33,21 @@
     // - if
     // - else if
     // - else
- # - for loop
-    - start
-    - stop
-    - increment
-    - break
-    - continue
-    - sequence
-- while loop
-    - start
-    - stop
-    - increment
-- function
-    - parameter
-    - argument
-    - return
+// - for loop
+    // - start
+    // - stop
+    // - increment
+    // - break
+    // - continue
+    // - sequence
+// - while loop
+    // - start
+    // - stop
+    // - increment
+// - function
+    // - parameter
+    // - argument
+    // - return
 
 * Bonus: Errors
 
